@@ -1,7 +1,7 @@
 Online service to take a gutenberg text, strip off the bumpf and make available in different formats such as plain text, html, pdf.
 
   * Ticket: http://knowledgeforge.net/okfn/tasks/ticket/283
-  * Mercurial repo: http://knowledgeforge.net/okfn/pdfator
+  * Mercurial repo: http://bitbucket.org/rgrp/textize
 
 Copyright 2010 Open Knowledge Foundation. Licensed under AGPL.
 
